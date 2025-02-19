@@ -1,6 +1,7 @@
 # Email-Spam-Detection-With-ML
 
-Email Spam Detection Project Summary
+Email Spam Detection Project Summary :
+
 This project is an Email Spam Detection App built using Python, Streamlit, and machine learning. It aims to classify emails as spam or not spam based on their content.
 
 Key Features:
