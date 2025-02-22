@@ -31,4 +31,4 @@ Automates email filtering to help users avoid phishing and junk emails.
 Enhances security by preventing potential scams.
 Improves productivity by reducing time spent sorting through spam.
 
-streamlit web app link - https://email-spam-detection-with-ml-fmhhvdbmbqzicqezxtmndt.streamlit.app/
+streamlit web app link - https://email-spam-detection-with-ml-j2hmywxuk4uycsmt52vbas.streamlit.app
